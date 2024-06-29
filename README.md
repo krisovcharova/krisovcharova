@@ -29,7 +29,7 @@
   <li>  <a href="https://github.com/krisovcharova/theory">Теория тестирования</a>  </li>
 <li>  <a href="https://github.com/krisovcharova/design">Техники тест-дизайна</a>  </li>
 <li>  <a href="https://github.com/krisovcharova/docs"> Тестовая документация</a>   </li>
-<li> <a href="https://github.com/krisovcharova/api">REST и SOAP API тестирование в Postman</a>   </li>
+<li> <a href="https://github.com/krisovcharova/api">API тестирование в Postman</a>   </li>
 <li>  <a href="https://github.com/krisovcharova/database">Работа с базами данных</a>  </li>
 <li>  <a href="https://github.com/krisovcharova/web"> Тестирование веб-приложений</a>   </li>
 <li> <a href="https://github.com/krisovcharova/mobile">Тестирование мобильных приложений</a>  </li>
