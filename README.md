@@ -38,12 +38,21 @@
 </p>
 ---
 
+### 📄 Check out <a href="https://drive.google.com/file/d/1H_dyl073Frx5iYA4d8yx5ru1S8nJ_Jft/view?usp=sharing">my CV</a>
 ---
+### 💻 Пройденные курсы:
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-|                             | 04/2024 - 07/2024 |
-
---- -->
+ <table>
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Functional Software Testing Course by Artsiom Rusau QA Life</td>
+                <td>04/2024 - 07/2024</td>
+            </tr>  
+        </tbody>
+    </table>
