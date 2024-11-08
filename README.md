@@ -1,5 +1,4 @@
-# Привет, меня зовут Кристина!
-
+#
 ---
 
 ### 👩‍💻 Обо мне:
@@ -38,7 +37,7 @@
 </p>
 ---
 
-### 📄 Check out <a href="https://drive.google.com/file/d/1H_dyl073Frx5iYA4d8yx5ru1S8nJ_Jft/view?usp=sharing">my CV</a>
+### 📄 Check out CV
 ---
 ### 💻 Пройденные курсы:
 
