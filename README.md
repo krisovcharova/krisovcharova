@@ -1,25 +1,4 @@
-#
----
 
-### 👩‍💻 Обо мне:
-
-Я начинающий тестировщик, специализирующийся на тестировании веб-приложений. В этом портфолио представлены примеры моих работ и достижения в области тестирования.
-
-### 🤝 Как связаться со мной:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kristina-ovcharova-995906193/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/corpusclock" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-        <a href="mailto:ovcharova.vvo@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="gmail" />
-    </a>
-  </div>
-
----
 
 ### 📁 Тестовые артефакты:
 
@@ -37,8 +16,6 @@
 </p>
 ---
 
-### 📄 Check out CV
----
 ### 💻 Пройденные курсы:
 
  <table>
